@@ -20,11 +20,11 @@ app.get("/",(req,res)=>{
 
 })
 
-app.post("/display",(req,res)=>{
+// app.post("/display",(req,res)=>{
     
-    res.sendFile(__dirname+"/public/html/counter.html");
+//     res.sendFile(__dirname+"/public/html/counter.html");
     
-})
+// })
 
 
 
